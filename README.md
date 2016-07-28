@@ -1,4 +1,5 @@
 # simpleProductManager
+[博客地址](http://mchao.me/2016/07/26/PHP-mysqli-MVC%E6%A8%A1%E5%BC%8F-%E5%AE%9E%E7%8E%B0%E5%95%86%E5%93%81%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F)
 MVC模式实现商品管理系统
 一个简单的事例，对保存在一个数据库中的商品数据表实现增、删、改、查的操作，并采用MVC模式使用其结构清晰
 ![](/Erickson0806.github.io/img/in-post/in-post_dir.png)
